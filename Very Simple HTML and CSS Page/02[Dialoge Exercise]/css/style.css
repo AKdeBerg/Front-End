@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Lemon', cursive;
+    background-image: url("try.jpg");
+    background-size: cover;
+}
+
+h1
+{
+    text-align: center;
+    color: #e55451;
+}
+
+form 
+{
+    margin: 50px;
+    font-size: 150%;
+    color: #f6358a;
+}
+
+form p 
+{
+    margin: .5px;
+}
+
+input:not([type = submit])
+{
+    border: none;
+    border-bottom: 1px dotted salmon;
+    height: 30px;
+}
+
+input:not([type = text])
+{
+    font-size: 125%;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+}

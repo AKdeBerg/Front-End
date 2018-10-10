@@ -1,0 +1,16 @@
+body {
+    background-image: url(natureDark.jpg);
+    font-size: 112%;
+    color: #dcecfc;
+    font-family: 'Kaushan Script', cursive;
+}
+
+div {
+    margin-left: 250px;
+}
+
+h1 {
+    text-align: center;
+    color: #cccccc;
+}
+
